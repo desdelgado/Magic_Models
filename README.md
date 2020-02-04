@@ -14,4 +14,4 @@ For clarity, I have broken down the project into different sections.  Feel free 
 
 [Magical_Data_Engineering_P1](https://github.com/desdelgado/Magic_Models/blob/master/Magical_Data_Engineering_P1.ipynb) - A first pass at web scraping a single card and transforming the data so it's usable for modeling.
 
-[Single_Timestep_Univariable_ Model_P2](https://github.com/desdelgado/Magic_Models/blob/maste/Single_Timestep_Univariable_%20Model_P2.ipynb) - Predicting the card price one day ahead. 
+[Single_Timestep_Univariable_ Model_P2](https://github.com/desdelgado/Magic_Models/blob/master/Single_Timestep_Univariable_%20Model_P2.ipynb) - Predicting the card price one day ahead. 
